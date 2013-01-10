@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="PT-pt">
+<head>
+<title>XPTO WEB SERVICES | ALOJAMENTO PROFISSIONAL COM APOIO 24/7/365!!</title>
+<meta name="description" content="A XPTO Web Services é uma empresa recente, virada para as novas tecnologias de inforação, de armazenamento e trabalho. <br>Temos para si e para a sua empresa soluções variadas e de rápida implementação!! <br>Contacte-nos...">
+<meta name="keywords" content="alojamento, hosting, cloudcomputing, cloud, email, web, design, webdesign">
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_300.font.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_400.font.js"></script>
+<script type="text/javascript" src="js/Myriad_Pro_600.font.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="js/ie6_warning.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="js/html5.js"></script>
+<![endif]-->
+</head>
+<body id="page6">
+<div class="tail-top1">
+<!-- header -->
+	<header>
+		<div class="container">
+			<div class="header-box">
+				<div class="left">
+					<div class="right">
+						<nav>
+							<ul>
+								<li><a href="index.html">Início</a></li>
+								<li><a href="services.html">Serviços</a></li>
+								<li><a href="hosting.html">Alojamento</a></li>
+								<li><a href="solutions.html">+ Soluções</a></li>
+								<li><a href="support.html">Suporte</a></li>
+								<li class="current"><a href="contacts.html">Contatos</a></li>
+							</ul>
+						</nav>
+						<h1><a href="index.html"><span>XPTO.</span>Web Services</a></h1>
+					</div>						
+				</div>
+			</div>
+			<span class="top-info">24/7 Vendas &amp; Suporte	+ 351 234 000 000  &nbsp; l  &nbsp; <a href="#">Promoções</a> &nbsp; l &nbsp; <a href="#">Pesquisa</a></span>
+			<form action="" id="login-form">
+				<fieldset>
+					<span class="text">
+						<input type="text" value="Username" onFocus="if(this.value=='Username'){this.value=''}" onBlur="if(this.value==''){this.value='Username'}">
+					</span>
+					<span class="text">
+						<input type="password" value="Password" onFocus="if(this.value=='Password'){this.value=''}" onBlur="if(this.value==''){this.value='Password'}">
+					</span>
+					<a href="#" class="login" onClick="document.getElementById('login-form').submit()"><span><span>Entrar</span></span></a>
+					<span class="links"><a href="#">Esqueceu-se da password?</a><br/><a href="#">Registar-se</a></span>
+				</fieldset>
+			</form>
+		</div>
+	</header>
+<!-- content -->
+	<section id="content">
+		<div class="container">
+			<div class="inside">
+				<div id="slogan">
+					<div class="inside">
+						<h2><span>XPTO WEB SERVICES</span> Traz o mundo até si!!</h2>
+						<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.</p>
+					</div>
+				</div>
+				<ul class="banners wrapper">
+					<li><a href="#">Básico  &nbsp; <b>&euro;10,00</b></a></li>
+					<li><a href="#">Económico  &nbsp; <b>&euro;15,00</b></a></li>
+					<li><a href="#">Profissional  &nbsp; <b>&euro;25,00</b></a></li>
+					<li><a href="#">Sem Limites  &nbsp; <b>&euro;50,00</b></a></li>
+				</ul>
+				<div class="inside1">
+					<div class="wrap">
+						<article class="col-1">
+							<h2>Morada</h2>
+							<address>
+						  	<b>Rua:</b>Rua do Abreu, nº30<br />
+								<b>Localidade:</b>Aradas<br />
+								<b>Cidade:</b>Aveiro<br />
+								<b>C. Postal:</b>3810-378<br />
+								<b>País:</b>Portugal<br />
+								<b>Telefone:</b>+351 234 000 000<br />
+								<b>Fax:</b>+351 234 000 001<br />
+								<b>Email:</b><a href="#">comercial@xpto.ws</a>
+							</address>
+							<h5>Curiosidades</h5>
+							<p class="p0">Namlibero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda repel- lendus. Temporibus autem quibus- dam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudi andae sint et molestiae non recusandae. Itaque earum rerum hic. </p>
+						</article>
+						<article class="col-2">
+							<h2>Entre em contato comnosco</h2>
+							<form id="contacts-form" action="">
+								<fieldset>
+									<div class="field text"><label>Nome:</label><input type="text"></div>
+									<div class="field text"><label>E-mail:</label><input type="email"></div>
+									<div class="field"><label>Mensagem:</label><textarea></textarea></div>
+									<div class="alignright"><a href="#" class="link4" onClick="document.getElementById('contacts-form').reset()"><span><span>Apagar</span></span></a><a href="#" class="link2" onClick="document.getElementById('contacts-form').submit()"><span><span>Enviar</span></span></a></div>
+								</fieldset>
+							</form>
+						</article>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>
+<!-- aside -->
+<aside>
+	<div class="container">
+		<div class="inside">
+			<div class="line-ver1">
+				<div class="line-ver2">
+					<div class="line-ver3">
+						<div class="wrapper line-ver4">
+							<ul class="list col-1">
+								<li>Gestão de Conta</li>
+								<li><a href="#">A minha conta</a></li>
+								<li><a href="#">Renovações</a></li>
+								<li><a href="#">Upgrades</a></li>
+								<li><a href="#">Definições</a></li>
+								<li><a href="#">Informação do Cliente</a></li>
+								<li><a href="#">Historial</a></li>
+							</ul>
+							<ul class="list col-2">
+								<li>Compras</li>
+								<li><a href="#">Offer Disclaimers</a></li>
+								<li><a href="#">Pesquisar Domínio</a></li>
+								<li><a href="#">Catálogo de Produtos</a></li>
+								<li><a href="#">Aconselhamento</a></li>
+								<li><a href="#">Cartões Presente</a></li>
+								<li><a href="#">Plataformas Móveis</a></li>
+							</ul>
+							<ul class="list col-3">
+								<li>Recursos</li>
+								<li><a href="#">Webmail</a></li>
+								<li><a href="#">WHOIS</a></li>
+								<li><a href="#">Confirmações ICANN</a></li>
+								<li><a href="#">Parcerias</a></li>
+								<li><a href="#">Seja um parceiro</a></li>
+								<li><a href="#">Gadgets / Widgets</a></li>
+							</ul>
+							<ul class="list col-4">
+								<li>Apoio Técnico</li>
+								<li><a href="#">Suporte &amp; Vendas</a></li>
+								<li><a href="#">Faturação</a></li>
+								<li><a href="#">Contate a Equipa de Suporte</a></li>
+								<li><a href="#">FAQ’s</a></li>
+								<li><a href="#">Guia de Utilização</a></li>
+								<li><a href="#">Reportar Abuso/SPAM</a></li>
+							</ul>
+							<ul class="list col-5">
+								<li>Sobre a XPTO</li>
+								<li><a href="#">Careiras</a></li>
+								<li><a href="#">Segurança</a></li>
+								<li><a href="#">A Empresa</a></li>
+								<li><a href="#">Notícias</a></li>
+								<li><a href="#">Testemunhos</a></li>
+								<li><a href="#">Novidades</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</aside>
+<!-- footer -->
+<footer>
+	<div class="container">
+		<div class="inside">
+			<p>Copyright 2012 XPTO WEB SERVICES @ Aveiro, PT</p>
+		</div>
+	</div>
+</footer>
+<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
